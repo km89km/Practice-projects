@@ -1,5 +1,6 @@
 #! python3
-# 2048.py - automates play of 2048 game using selenium.
+# 2048.py - automates play of 2048 game using selenium. 
+# Practice project from chapter 12 of 'Automate the boring stuff' by Al Sweigart.
 
 import time
 from selenium import webdriver
